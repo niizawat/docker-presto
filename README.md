@@ -1,2 +1,1 @@
-# docker-presto
-Docker image for PrestoDB
+Docker image for [PrestoDB](https://prestodb.io/)
